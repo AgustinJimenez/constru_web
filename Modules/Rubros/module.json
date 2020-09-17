@@ -1,0 +1,17 @@
+{
+    "name": "Rubros",
+    "alias": "rubros",
+    "description": "",
+    "version": "v0.1",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Rubros\\Providers\\RubrosServiceProvider",
+        "Modules\\Rubros\\Providers\\RouteServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        
+    ]
+}
